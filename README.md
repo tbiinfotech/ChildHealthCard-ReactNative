@@ -5,10 +5,10 @@
 The app is based on creating health card of children in which parents can share the health details of their child like any allergy etc. User can share the emcard (Health Card) with anyone in the app and also invite other for using this app. User can also receive the card sent by other user with in the app.
 
 
-![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/Images/home%20(1).png)
-![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/Images/Profile.png)
-![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/Images/generate.png)
-![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/Images/share.png)
+![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/home.png)
+![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/Profile.png)
+![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/generate.png)
+![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/share.png)
 
 
 ## Technology Stack
