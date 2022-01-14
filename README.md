@@ -7,8 +7,8 @@ The app is based on creating health card of children in which parents can share 
 
 ![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/home.jpg)
 ![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/Profile.jpg)
-![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/generate.jpg)
-![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/share.jpg)
+![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/generate-card.jpg)
+![Screenshot](https://github.com/tbiinfotech/ChildHealthCard-ReactNative/blob/main/share-card.jpg)
 
 
 ## Technology Stack
